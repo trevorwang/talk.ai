@@ -1,15 +1,15 @@
 {
   "manifest_version": 2,
-  "name": "简聊",
+  "name": "test",
   "version": "2.1",
   "minimum_chrome_version": "23",
   "icons": {
-    "16": "icon_16.png",
-    "128": "icon_128.png"
+    "16": "image/icon_16.png",
+    "128": "image/icon_128.png"
   },
   "app": {
     "background": {
-      "scripts": ["background.js"]
+      "scripts": ["js/background.js"]
     }
   },
    "permissions": [
