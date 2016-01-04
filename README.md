@@ -8,3 +8,5 @@
 [简聊](extensions/Talk.ai.crx?raw=true)
 
 [Teambition](extensions/Teambition.crx?raw=true)
+
+## [如何安装离线扩展](http://muzi.info/articles/3430.html)
